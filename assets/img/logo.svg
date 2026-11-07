@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- AI Square IT Solutions Vector Logo -->
+  <!-- Interlocking AI² / Rounded Square Tech Emblem -->
+  <!-- Blue & Navy Gradients -->
+  
+  <defs>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    
+    <linearGradient id="navyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Rounded Square -->
+  <rect x="20" y="20" width="160" height="160" rx="30" ry="30" fill="url(#navyGradient)" opacity="0.9" />
+  
+  <!-- AI² Emblem - Interlocking Elements -->
+  <!-- Letter A -->
+  <path d="M50 130 L100 50 L150 130 Z" fill="url(#blueGradient)" opacity="0.9" />
+  <path d="M75 90 L125 90" stroke="white" stroke-width="3" stroke-linecap="round" />
+  
+  <!-- Letter I (Square) -->
+  <rect x="110" y="70" width="20" height="60" rx="5" ry="5" fill="url(#blueGradient)" opacity="0.9" />
+  
+  <!-- Square Element (²) -->
+  <rect x="135" y="45" width="25" height="25" rx="5" ry="5" fill="url(#blueGradient)" opacity="0.9" />
+  <text x="147.5" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">2</text>
+  
+  <!-- Connecting Lines (Tech/Network Theme) -->
+  <circle cx="75" cy="90" r="5" fill="white" />
+  <circle cx="120" cy="90" r="5" fill="white" />
+  <circle cx="147.5" cy="57.5" r="4" fill="white" />
+  
+  <line x1="75" y1="90" x2="110" y2="90" stroke="white" stroke-width="2" stroke-dasharray="4" />
+  <line x1="120" y1="90" x2="135" y2="57.5" stroke="white" stroke-width="2" stroke-dasharray="4" />
+  
+  <!-- Company Name Text (Below Emblem) -->
+  <text x="100" y="180" font-family="'Inter', sans-serif" font-size="14" font-weight="bold" fill="#0F172A" text-anchor="middle">AI SQUARE IT SOLUTIONS</text>
+  <text x="100" y="195" font-family="'Inter', sans-serif" font-size="10" fill="#64748B" text-anchor="middle">Build • Evaluate • Grow Together</text>
+</svg>
